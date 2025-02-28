@@ -1,2 +1,4 @@
 # FiHam
-multi-modal brain tumor segmentation
+Multi-modal brain tumor segmentation
+
+The code will be available soon!
